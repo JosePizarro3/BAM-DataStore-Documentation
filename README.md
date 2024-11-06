@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 Once the installation is finished, you can launch the documentation server:
 ```sh
-mkdocs
+mkdocs serve
 ```
 
 The output looks like:
